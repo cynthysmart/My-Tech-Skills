@@ -1,6 +1,6 @@
 import React from 'react'
-import './index.css';
-import Tools from "./Tools"
+import 'index.css';
+import Tools from "Tools"
 
 function App() {
   return (
